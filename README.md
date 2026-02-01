@@ -218,11 +218,11 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @article{mohammad2025bucket,
-  title={Bucket-Indexed MILP Scheduling Optimization},
+  title={Breaking the Temporal Complexity Barrier: Bucket Calculus for Parallel Machine Scheduling},
   author={Mohammad, Noor Islam S.},
   journal={arXiv preprint},
   year={2025},
-  institution={Istanbul Technical University}
+  institution={New York University}
 }
 ```
 
@@ -241,18 +241,12 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Research conducted under the BBL553E Algorithm Engineering Course at Istanbul Technical University
-- Inspired by recent advances in quantum computing and operations research
-- Built upon foundational work in parallel machine scheduling theory
-
 ## 📧 Contact
 
 **Noor Islam S. Mohammad**  
 Department of Computer Science  
-Istanbul Technical University  
-Email: islam23@itu.edu.tr
+New York University  
+Email: noor.islam.s.m@nyu.edu
 
 ## 🔗 Links
 
